@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "polus-mm-utils-check-linear-fit"
+name = "polus-mm-utils-fitting-check-linear-fit"
 version = "0.1.0"
 description = "check_linear_fit"
 authors = ["Data Scientist <data.scientist@labshare.org>"]

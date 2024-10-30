@@ -8,7 +8,7 @@ label: check_linear_fit
 doc: |-
   check_linear_fit
 
-baseCommand: ["python", "-m", "polus.mm.utils.check_linear_fit"]
+baseCommand: ["python", "-m", "polus.mm.utils.fitting.check_linear_fit"]
 
 requirements:
   DockerRequirement:

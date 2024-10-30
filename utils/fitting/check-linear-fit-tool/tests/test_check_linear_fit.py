@@ -2,7 +2,7 @@
 import sys
 from pathlib import Path
 
-from polus.mm.utils.check_linear_fit.check_linear_fit import check_linear_fit
+from polus.mm.utils.fitting.check_linear_fit.check_linear_fit import check_linear_fit
 
 current_dir = Path(__file__).resolve().parent
 target_dir = current_dir.parent.parent.parent / "cwl_utils"

@@ -2,6 +2,6 @@
 
 __version__ = "0.1.0"
 
-from polus.mm.utils.check_linear_fit.check_linear_fit import (  # noqa # pylint: disable=unused-import
+from polus.mm.utils.fitting.check_linear_fit.check_linear_fit import (  # noqa # pylint: disable=unused-import
     check_linear_fit,
 )

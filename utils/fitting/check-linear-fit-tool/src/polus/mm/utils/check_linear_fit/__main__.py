@@ -6,7 +6,7 @@ import sys
 from os import environ
 
 import typer
-from polus.mm.utils.check_linear_fit.check_linear_fit import check_linear_fit
+from polus.mm.utils.fitting.check_linear_fit.check_linear_fit import check_linear_fit
 
 logging.basicConfig(
     format="%(asctime)s - %(name)-8s - %(levelname)-8s - %(message)s",
